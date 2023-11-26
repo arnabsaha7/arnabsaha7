@@ -13,10 +13,13 @@ Additionally, I bring a creative touch to technology as a frontend web developer
 - **Languages:** C++, Python
 - **Technologies:** TensorFlow, Scikit-Learn
 - **Web Development:** HTML, CSS, JavaScript
+- **Graphic Designing:** Adobe Photshop, Adobe Illustrator, Canva
+- **Video Editing:** Adobe Premier Pro, Adobe After Effects, DaVinci Resolve, Topaz Video AI
 
 #### 🔍 What I'm Up To:
 - Exploring advanced machine learning techniques
 - Enhancing my proficiency in web development
+- Building up my creativity in designing.
   
 
 Let's innovate and build a smarter future together! 🤖✨
