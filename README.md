@@ -23,7 +23,7 @@
   
   
 </p>
-<h2><img src="	https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width='20'/> Career Interests:</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width="30"/> Career Interests:</h2>
 <p>
  $   Data Analyst</br>
  $   Machine Learning Engineer</br>
