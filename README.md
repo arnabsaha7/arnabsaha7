@@ -4,7 +4,7 @@
 " width="13"/> <b>Tripura, India</b></p>
 <h3>My Technical Stack</h3>
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/-C++-5E97D0?style=flat-square&logo=Cpp&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-5E97D0?style=flat-square&logo=C++&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffde57?style=flat-square&logo=python&logoColor=4584B6" />
 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
