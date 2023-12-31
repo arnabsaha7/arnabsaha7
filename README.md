@@ -1,8 +1,6 @@
-### Hi there, I'm Arnab Saha! 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I'm passionate about the intersection of machine learning and software development, with a keen interest in crafting intelligent solutions. 
-My expertise lies in leveraging C++ and Python to build robust machine learning models and applications. 
-Additionally, I bring a creative touch to technology as a frontend web developer.
+<p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://drive.google.com/file/d/10Ls_NiO0HyNgjRVWYiXFIqHwnC9tFy33/view?usp=drive_link" width="13"/> <b>Tripura, India</b></p>
 
 #### 💼 Career Interests:
 - Machine Learning
