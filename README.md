@@ -2,7 +2,14 @@
 
 <p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="![image](https://github.com/arnabsaha7/arnabsaha7/assets/88814961/e9424183-9c00-47c1-a846-5418abc14f5c)
 " width="13"/> <b>Tripura, India</b></p>
-
+<h3>My Technical Stack</h3>
+<p>
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  
+</p>
 #### 💼 Career Interests:
 - Machine Learning
 - Graphic Designing
