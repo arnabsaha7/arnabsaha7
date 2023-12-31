@@ -35,8 +35,8 @@ $ Frontend Web Developer
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="20"/> What I'm Up To:</h2>
 <p>
-🧩 Exploring advanced machine learning techniques
-🔮 Enhancing my proficiency in Data Analysis
+🧩 Exploring advanced machine learning techniques.</br>
+🔮 Enhancing my proficiency in Data Analysis.</br>
 🔍 Building up my creativity in designing.
 </p>
 
