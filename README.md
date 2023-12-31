@@ -20,6 +20,14 @@
 - Graphic Designing
 - Frontend Web Development
 
+<h3>Connect with me!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-%DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
+  
+</p>
+
 #### 🚀 Skills:
 - **Languages:** C++, Python
 - **Technologies:** TensorFlow, Scikit-Learn
@@ -32,5 +40,5 @@
 - Enhancing my proficiency in web development
 - Building up my creativity in designing.
   
-
-Let's innovate and build a smarter future together! 🤖✨
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=arnabsaha7&amp;show_icons=true" alt="GitHub Stats"></p>
