@@ -13,6 +13,10 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-Dodger blue?style=flat-square&logo=Photoshop&logoColor=001E36" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
 </p>
 #### 💼 Career Interests:
@@ -25,7 +29,6 @@
   <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
   <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
-  
 </p>
 
 #### 🚀 Skills:
