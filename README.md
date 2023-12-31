@@ -12,6 +12,7 @@
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-css-blue?style=flat-square&logo=CSS&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
   <img alt="git" src="https://img.shields.io/badge/-git-F1502F?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-1e90ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001E36" />
@@ -22,10 +23,13 @@
   
   
 </p>
-#### 💼 Career Interests:
-- Machine Learning
-- Graphic Designing
-- Frontend Web Development
+<h3>💼 Career Interests:</h3>
+<p>
+- Data Analyst
+- Machine Learning Engineer
+- Graphic Designer
+- Frontend Web Developer
+</p>
 
 <h3>Connect with me!</h3>
 <p>
@@ -36,7 +40,7 @@
 
 #### 🚀 Skills:
 - **Languages:** C++, Python
-- **Technologies:** TensorFlow, Scikit-Learn
+- **Technologies:** TensorFlow, Scikit-Learn, YOLO, Pygame
 - **Web Development:** HTML, CSS, JavaScript
 - **Graphic Designing:** Adobe Photshop, Adobe Illustrator, Canva
 - **Video Editing:** Adobe Premier Pro, Adobe After Effects, DaVinci Resolve, Topaz Video AI
