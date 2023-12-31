@@ -32,14 +32,8 @@ $ Video Editor</br>
 $ Frontend Web Developer
 </p>
 
-#### 🚀 Skills:
-- **Languages:** C++, Python
-- **Technologies:** TensorFlow, Scikit-Learn, YOLO, Pygame
-- **Web Development:** HTML, CSS, JavaScript
-- **Graphic Designing:** Adobe Photshop, Adobe Illustrator, Canva
-- **Video Editing:** Adobe Premier Pro, Adobe After Effects, DaVinci Resolve, Topaz Video AI
 
-#### 🔍 What I'm Up To:
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643514738/7421/typingcat.gif?1643514738" width="30"/> What I'm Up To:</h2>
 - Exploring advanced machine learning techniques
 - Enhancing my proficiency in web development
 - Building up my creativity in designing.
