@@ -13,9 +13,9 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Photoshop-Dodger blue?style=flat-square&logo=Photoshop&logoColor=001E36" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-1e90ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001E36" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Illustrator-330000?style=flat-square&logo=Adobe-Illustrator&logoColor=FF9A00" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=flat-square&logo=Canva&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   
 </p>
