@@ -24,7 +24,7 @@
 <p>
   <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-%DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
+  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-#DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
   
 </p>
 
