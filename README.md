@@ -23,13 +23,13 @@
   
   
 </p>
-<h2>💼 Career Interests:</h2>
+<h2><img src="	https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width='20'/> Career Interests:</h2>
 <p>
-$ Data Analyst</br>
-$ Machine Learning Engineer</br>
-$ Graphic Designer</br>
-$ Video Editor</br>
-$ Frontend Web Developer
+ $   Data Analyst</br>
+ $   Machine Learning Engineer</br>
+ $   Graphic Designer</br>
+ $   Video Editor</br>
+ $   Frontend Web Developer
 </p>
 
 
