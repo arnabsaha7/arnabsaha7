@@ -25,9 +25,9 @@
 </p>
 <h3>💼 Career Interests:</h3>
 <p>
-* Data Analyst
-* Machine Learning Engineer
-* Graphic Designer
+* Data Analyst</br>
+* Machine Learning Engineer</br>
+* Graphic Designer</br>
 * Frontend Web Developer
 </p>
 
