@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://drive.google.com/file/d/10Ls_NiO0HyNgjRVWYiXFIqHwnC9tFy33/view?usp=drive_link" width="13"/> <b>Tripura, India</b></p>
+<p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="![image](https://github.com/arnabsaha7/arnabsaha7/assets/88814961/e9424183-9c00-47c1-a846-5418abc14f5c)
+" width="13"/> <b>Tripura, India</b></p>
 
 #### 💼 Career Interests:
 - Machine Learning
