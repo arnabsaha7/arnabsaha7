@@ -25,17 +25,11 @@
 </p>
 <h3>💼 Career Interests:</h3>
 <p>
-* Data Analyst</br>
-* Machine Learning Engineer</br>
-* Graphic Designer</br>
-* Frontend Web Developer
-</p>
-
-<h3>Connect with me!</h3>
-<p>
-  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
+$ Data Analyst</br>
+$ Machine Learning Engineer</br>
+$ Graphic Designer</br>
+$ Video Editor</br>
+$ Frontend Web Developer
 </p>
 
 #### 🚀 Skills:
@@ -49,6 +43,13 @@
 - Exploring advanced machine learning techniques
 - Enhancing my proficiency in web development
 - Building up my creativity in designing.
-  
+
+<h3>Connect with me!</h3>
+<p>
+  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
+</p>
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=arnabsaha7&amp;show_icons=true" alt="GitHub Stats"></p>
