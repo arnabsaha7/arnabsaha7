@@ -25,10 +25,10 @@
 </p>
 <h3>💼 Career Interests:</h3>
 <p>
-- Data Analyst
-- Machine Learning Engineer
-- Graphic Designer
-- Frontend Web Developer
+* Data Analyst
+* Machine Learning Engineer
+* Graphic Designer
+* Frontend Web Developer
 </p>
 
 <h3>Connect with me!</h3>
