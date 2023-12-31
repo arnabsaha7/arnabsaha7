@@ -23,7 +23,7 @@
   
   
 </p>
-<h3>💼 Career Interests:</h3>
+<h2>💼 Career Interests:</h2>
 <p>
 $ Data Analyst</br>
 $ Machine Learning Engineer</br>
