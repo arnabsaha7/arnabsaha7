@@ -17,7 +17,7 @@
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-330000?style=flat-square&logo=Adobe-Illustrator&logoColor=FF9A00" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=flat-square&logo=Canva&logoColor=white" />
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-330D3E?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=D88EF1" />
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe_After_Effects-9168B2?style=flat-square&logo=Adobe-After-Effects&logoColor=D8A1FF" />
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe_After_Effects-9168B2?style=flat-square&logo=Adobe-After-Effects&logoColor=330D3E" />
   
   
 </p>
