@@ -45,9 +45,9 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1666129364/61762/blob-heart.png?1666129364" width="20"/> Connect with me!</h2>
 <p>
-  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=social&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=social&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=social&logo=youtube&logoColor=white" height=25></a> 
+  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
 </p>
 
 ### Github Stats
