@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Tripura, India</b></p>
 
-<h3>My Technical Stack</h3>
+<h2>My Technical Stack</h2>
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt=""/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
@@ -43,7 +43,7 @@
 🔍 Building up my creativity in designing.
 </p>
 
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1666129364/61762/blob-heart.png?1666129364" width="20"/> Connect with me!</h3>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1666129364/61762/blob-heart.png?1666129364" width="20"/> Connect with me!</h2>
 <p>
   <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
   <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
