@@ -50,5 +50,5 @@
   <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
 </p>
 
-<h2>GitHub Stats</h2>
-![Github stats](https://github-readme-stats.vercel.app/api?username=arnabsaha7&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
+### Github Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=Pjarbas&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
