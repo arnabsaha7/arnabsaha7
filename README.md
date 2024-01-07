@@ -11,10 +11,10 @@
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
   <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=YOLO&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/scikit--learn-purple.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon-web-service&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330" />
