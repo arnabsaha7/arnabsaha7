@@ -28,12 +28,11 @@
 </div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width="24"/> Things I love to learn:</h2>
 <p>
-- 👨‍💻👁️ Computer Vision
-- 📈 Machine Learning
-- 🤖 Deep Learning
--   Graphic Designer</br>
--   Video Editor</br>
--   Frontend Web Developer
+- 👨‍💻👁️ Computer Vision</br>
+- 📈 Machine Learning</br>
+- 🤖 Deep Learning</br>
+- 🎨✏️🖼️ Graphic Designing</br>
+- 🎬✂️📹 Video Editing</br>
 </p>
 
 
