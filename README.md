@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Tripura, India</b></p>
 
-<h2>My Technical Stack</h2>
+## My Tech Stack
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt=""/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
