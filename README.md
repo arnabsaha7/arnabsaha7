@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Tripura, India</b></p>
+
 <h3>My Technical Stack</h3>
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt=""/>
@@ -24,13 +25,14 @@
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-330D3E?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=D88EF1" />
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe_After_Effects-9168B2?style=for-the-badge&logo=Adobe-After-Effects&logoColor=330D3E" />
 </div>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width="24"/> Career Interests:</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width="24"/> Things I love to learn:</h2>
 <p>
-♦   Data Analyst</br>
-♦   Machine Learning Engineer</br>
-♦   Graphic Designer</br>
-♦   Video Editor</br>
-♦   Frontend Web Developer
+- 👨‍💻👁️ Computer Vision
+- 📈 Machine Learning
+- 🤖 Deep Learning
+-   Graphic Designer</br>
+-   Video Editor</br>
+-   Frontend Web Developer
 </p>
 
 
@@ -49,4 +51,4 @@
 </p>
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=arnabsaha7&amp;show_icons=true" alt="Stats"></p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=arnabsaha7&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true)
