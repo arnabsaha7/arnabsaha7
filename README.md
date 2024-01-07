@@ -9,20 +9,20 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
-  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=flat-square&logo=YOLO&logoColor=white" />
+  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=YOLO&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=CSS&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=323330" />
-  <img alt="git" src="https://img.shields.io/badge/-git-F1502F?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-1e90ff?style=flat-square&logo=Adobe-Photoshop&logoColor=001E36" />
-  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-330000?style=flat-square&logo=Adobe-Illustrator&logoColor=FF9A00" />
-  <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=flat-square&logo=Canva&logoColor=white" />
-  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-330D3E?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=D88EF1" />
-  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe_After_Effects-9168B2?style=flat-square&logo=Adobe-After-Effects&logoColor=330D3E" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330" />
+  <img alt="git" src="https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-1e90ff?style=for-the-badge&logo=Adobe-Photoshop&logoColor=001E36" />
+  <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-330000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FF9A00" />
+  <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-330D3E?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=D88EF1" />
+  <img alt="Adobe After Effects" src="https://img.shields.io/badge/-Adobe_After_Effects-9168B2?style=for-the-badge&logo=Adobe-After-Effects&logoColor=330D3E" />
 </div>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643516205/22311/money_bag.gif?1643516205" width="24"/> Career Interests:</h2>
 <p>
