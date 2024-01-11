@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
-  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=ultralytics&logoColor=white" />
+  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=ultralyticsYolo&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-purple.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
