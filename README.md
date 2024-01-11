@@ -6,7 +6,7 @@
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt=""/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=sql&logoColor=white" alt=""/>
+  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=MySql&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/PySpark-orange.svg?style=for-the-badge&logo=PySpark&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=""/>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
