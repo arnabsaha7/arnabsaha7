@@ -47,10 +47,10 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1666129364/61762/blob-heart.png?1666129364" width="20"/> Connect with me!</h2>
 <p>
-  <a href="https://mail.google.com/mail/arnabsaha9786@gmail.com"><img src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=Gmail&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
-  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> 
+  <a href="https://mail.google.com/mail/arnabsaha9786@gmail.com"><img src="https://img.shields.io/badge/Gmail-red.svg?&style=for-the-badge&logo=Gmail&logoColor=white"></a> 
+  <a href="https://www.linkedin.com/in/arnab-saha-7o7"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://www.instagram.com/arnab_saha_7/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> 
+  <a href="https://www.youtube.com/@captainsonline"><img src="https://img.shields.io/badge/YouTube-DE2925.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> 
 </p>
 
 <br>
