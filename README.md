@@ -25,7 +25,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330" />
   <img alt="git" src="https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=293241" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-293241?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-98C1D9?style=for-the-badge&logo=Adobe-Photoshop&logoColor=001E36" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-330000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FF9A00" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=Canva&logoColor=white" />
