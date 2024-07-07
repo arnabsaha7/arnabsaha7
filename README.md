@@ -6,26 +6,27 @@
 ## My Tech Stack:
 
 <div align="center" style="padding-bottom: 20px">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=MySql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-PowerBI-F6D958.svg?style=for-the-badge&logo=PowerBI&logoColor=370617" alt="PowerBI"/>
-  <img src="https://img.shields.io/badge/PySpark-102041.svg?style=for-the-badge&logo=ApacheSpark&logoColor=orange" alt=""/>
-  <img src="https://img.shields.io/badge/opencv-%29white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt=""/>
-  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=Ultralytics-YOLOv8&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-purple.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt=""/>
-  <img src="https://img.shields.io/badge/langchain-35495e.svg?style=for-the-badge&logo=langchain&logoColor=green" alt=""/>
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"                  alt="Python"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"              alt="C++"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=MySql&logoColor=white"                 alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PowerBI-F6D958.svg?style=for-the-badge&logo=PowerBI&logoColor=370617"            alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/PySpark-102041.svg?style=for-the-badge&logo=ApacheSpark&logoColor=orange"        alt="PySpark"/>
+  <img src="https://img.shields.io/badge/opencv-A2D2FF.svg?style=for-the-badge&logo=opencv&logoColor=001D3D"              alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"    alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white"              alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-F48C06.svg?style=for-the-badge&logo=PyTorch&logoColor=D90429"            alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/PyGame-386641.svg?style=for-the-badge&logo=Pygame&logoColor=black"               alt="PyGame"/>
+  <img src="https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=Ultralytics-YOLOv8&logoColor=white"          alt="YOLO"/>
+  <img src="https://img.shields.io/badge/scikit--learn-purple.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"  alt="Sklearn"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"            alt="Pandas"/>
+  <img src="https://img.shields.io/badge/langchain-35495e.svg?style=for-the-badge&logo=langchain&logoColor=green"         alt="LangChain"/>
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon_Web_Services-FF9900?style=for-the-badge&logo=Amazon-Web-Services&logoColor=black" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330" />
   <img alt="git" src="https://img.shields.io/badge/-git-F1502F?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-1e90ff?style=for-the-badge&logo=Adobe-Photoshop&logoColor=001E36" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=293241" />
+  <img alt="Adobe Photoshop" src="https://img.shields.io/badge/-Adobe_Photoshop-98C1D9?style=for-the-badge&logo=Adobe-Photoshop&logoColor=001E36" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/-Adobe_Illustrator-330000?style=for-the-badge&logo=Adobe-Illustrator&logoColor=FF9A00" />
   <img alt="Canva" src="https://img.shields.io/badge/-Canva-20C4CB?style=for-the-badge&logo=Canva&logoColor=white" />
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Adobe_Premiere_Pro-330D3E?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=D88EF1" />
