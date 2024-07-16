@@ -8,9 +8,9 @@
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"                  alt="Python"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"              alt="C++"/>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"                    alt="html5"/>
+  <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white"                         alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=323330"         alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Jupyter-FFB703.svg?style=for-the-badge&logo=Jupyter&logoColor=540B0E"            alt="Notebook"/>
   <img src="https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=MySql&logoColor=white"                 alt="MySQL"/>
   <img src="https://img.shields.io/badge/PowerBI-F6D958.svg?style=for-the-badge&logo=PowerBI&logoColor=370617"            alt="PowerBI"/>
