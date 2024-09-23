@@ -29,11 +29,15 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/OCI-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF" alt="Oracle Cloud Infrastructure"/>
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=FFFFFF" alt="Google Earth Engine"/>
+  <img src="https://img.shields.io/badge/Folium-1A8E1A?style=for-the-badge&logo=folium&logoColor=FFFFFF" alt="Folium"/>
+  <img src="https://img.shields.io/badge/Geemap-D2B48C?style=for-the-badge&logo=geemap&logoColor=FFFFFF" alt="Geemap"/>
   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=001E36" />
   <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe_Illustrator-f2f2f2?style=for-the-badge&logo=Adobe-Illustrator&logoColor=330000" />
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=330D3E" />
   <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe_After_Effects-1e152a?style=for-the-badge&logo=Adobe-After-Effects&logoColor=white" />
 </div>
+
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1703739561/84551/starsq.gif?1703739561" width="26" alt="starsq"/> Things I Love to Learn: </h2>
