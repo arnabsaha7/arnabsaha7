@@ -1,6 +1,5 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-<p>Welcome to my page! </br> I'm Arnab, Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> <b>Tripura, India</b></p>
+<h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Arnab Saha</h1>
+<h3 align="center">A Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> Tripura, India</h3>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514067/233/snorlax.png?1643514067" height="26"> My Tech Stack: </h2>
 <div align="center" style="padding-bottom: 20px">
@@ -11,14 +10,14 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=FFFFFF" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PowerBI-ffd400?style=for-the-badge&logo=Power-BI&logoColor=BLACK" alt="PowerBI"/>
+  <img src="https://img.shields.io/badge/PowerBI-FBBA00?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/PySpark-BF360C?style=for-the-badge&logo=apache-spark&logoColor=FFFFFF" alt="PySpark"/>
   <img src="https://img.shields.io/badge/OpenCV-003554?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FFFFFF" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-A9392C?style=for-the-badge&logo=keras&logoColor=FFFFFF" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=FFFFFF" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/PyGame-223372?style=for-the-badge&logo=pygame&logoColor=FFFFFF" alt="PyGame"/>
-  <img src="https://img.shields.io/badge/YOLO-282C34?style=for-the-badge&logo=ultralytics-yolo&logoColor=00FFFF" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/YOLO-282C34?style=for-the-badge&logo=Ultralytics_YOLO&logoColor=00FFFF" alt="YOLO"/>
   <img src="https://img.shields.io/badge/scikit--learn-0C0D0D?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=FFFFFF" alt="NumPy"/>
@@ -27,7 +26,6 @@
   <img src="https://img.shields.io/badge/LangChain-2D3748?style=for-the-badge&logo=langchain&logoColor=FFFFFF" alt="LangChain"/>
   <img src="https://img.shields.io/badge/AWS-f3c622?style=for-the-badge&logo=amazon-web-services&logoColor=0d1b2a" alt="AWS"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=FFFFFF" alt="GitHub Actions"/>
   <img src="https://img.shields.io/badge/OCI-C74634?style=for-the-badge&logo=oracle&logoColor=FFFFFF" alt="Oracle Cloud Infrastructure"/>
   <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=FFFFFF" alt="Google Earth Engine"/>
   <img src="https://img.shields.io/badge/Folium-1A8E1A?style=for-the-badge&logo=folium&logoColor=FFFFFF" alt="Folium"/>
