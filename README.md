@@ -65,9 +65,9 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514058/149/sonic.gif?1643514058" height="26" alt="sonic"/> Github Stats: </h2>
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=arnabsaha7&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=arnabsaha7&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=2" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabsaha7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arnabsaha7&show_icons=true&theme=one_dark_pro&hide_border=true&count_private=true&include_all_commits=true" height="120" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=arnabsaha7&locale=en&mode=daily&theme=one_dark_pro&hide_border=true&border_radius=2" height="120" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arnabsaha7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=one_dark_pro&hide_border=true" height="120" alt="languages graph" />
 </div>
 
 ###
