@@ -3,7 +3,7 @@
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514067/233/snorlax.png?1643514067" height="26"> My Tech Stack: </h2>
 <div align="center" style="padding-bottom: 20px">
-  <img src="https://img.shields.io/badge/Python-1565c0?style=for-the-badge&logo=python&logoColor=25a18e" alt="Python"/>
+  <img src="https://img.shields.io/badge/Python-1565c0?style=for-the-badge&logo=python&logoColor=ffe97f" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-d6e2e9?style=for-the-badge&logo=c%2B%2B&logoColor=black" alt="C++"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
