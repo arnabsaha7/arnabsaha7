@@ -22,10 +22,10 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=Azure&logoColor=FFFFFF" alt="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git"/>
-  <img src="https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=google-earth&logoColor=FFFFFF" alt="Google Earth Engine"/>
-  <img src="https://img.shields.io/badge/Folium-1A8E1A?style=for-the-badge&logo=folium&logoColor=FFFFFF" alt="Folium"/>
+  <img src="https://img.shields.io/badge/GEE-2BB673?style=for-the-badge&logo=google-earth&logoColor=FFFFFF" alt="Google Earth Engine"/>
   <img src="https://img.shields.io/badge/Geemap-D2B48C?style=for-the-badge&logo=geemap&logoColor=FFFFFF" alt="Geemap"/>
-  <img src="https://img.shields.io/badge/PowerBI-FBBA00?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Folium-008C7A?style=for-the-badge&logo=folium&logoColor=FFFFFF" alt="Folium"/>
+  <img src="https://img.shields.io/badge/PowerBI-ffc300?style=for-the-badge&logo=google-analytics&logoColor=black" alt="Power BI"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=FF7F0E" alt="Plotly"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=FFFFFF" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/PyGame-223372?style=for-the-badge&logo=pygame&logoColor=FFFFFF" alt="PyGame"/>
