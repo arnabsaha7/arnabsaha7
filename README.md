@@ -1,5 +1,6 @@
 <h1 align="center">Hello <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> , I'm Arnab Saha</h1>
 <h3 align="center">A Machine Learning Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/> Tripura, India</h3>
+
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643514067/233/snorlax.png?1643514067" height="26"> My Tech Stack: </h2>
 <div align="center" style="padding-bottom: 20px">
   <img src="https://img.shields.io/badge/Python-1565c0?style=for-the-badge&logo=python&logoColor=ffe97f" alt="Python"/>
@@ -7,6 +8,7 @@
   <img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=openjdk&logoColor=660708" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=FFFFFF" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
